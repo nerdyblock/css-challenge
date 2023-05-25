@@ -64,7 +64,7 @@ h1 {
 }
 
 .main {
-    padding: 2em 0;
+    margin-top: 2em;
 }
 
 .right-text {
@@ -75,7 +75,7 @@ h1 {
     background-color: #136C72;
     color: #FFF;
     text-align: center;
-    padding: 1em 1.8em;
+    padding: 1em;
 }
 
 .left-text {
